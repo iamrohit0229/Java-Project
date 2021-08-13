@@ -1,18 +1,4 @@
 import java.util.*;
-package com;
-public class Sshexample {
-    private String callconst = Password.password_Generate(16);
-
-    public String getCallconst() {
-        return callconst;
-    }
-
-    public void setCallconst(String callconst) {
-        this.callconst = callconst;
-    }
-
-
-}
 
 public static class Password
 {
